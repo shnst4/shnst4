@@ -17,12 +17,13 @@ HTML, CSS, JS, Figma, Python, C++, Git.
 
 Работа, выполненная в рамках обучения
 по треку «Дизайн».
-![](img/post-final.jpg)
-![](img/menu-final.jpg)
-![](img/flaer-final.jpg)
+
+<img src="img/post-final.jpg" width="250">
+<img src="img/menu-final.jpg" width="250">
+<img src="img/flaer-final.jpg" width="250">
 
 Cертификат с отличием
-![](img/media-school-certificate.png)
+<img src="img/media-school-certificate.png" width="350">
 
 **Рандомные факты из жизни:**
 
