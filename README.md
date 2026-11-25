@@ -23,6 +23,7 @@ HTML, CSS, JS, Figma, Python, C++, Git.
 <img src="img/flaer-final.jpg" width="250">
 
 Cертификат с отличием
+
 <img src="img/media-school-certificate.png" width="350">
 
 **Рандомные факты из жизни:**
